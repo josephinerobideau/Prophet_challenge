@@ -1,4 +1,4 @@
-# Challange 8 - Forecasting Google search trends for MercadoLibre
+# Challenge 8 - Forecasting Google search trends for MercadoLibre
 -------
 
 ## Overview and agenda for prophet traffic forecasting
